@@ -1,4 +1,4 @@
-![](https://imgur.com/AKqoF4q)
+![](https://i.imgur.com/AKqoF4q.png)
 
 # Google Material Icons Library for Sketch.
 This is a Google Material Icons Library for Sketch.
