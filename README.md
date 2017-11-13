@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/AKqoF4q.png)
 
-# Google Material Icons Library for Sketch.
+# Google Material Icons Library for Sketch - [Download](http://bit.ly/material-icons-library)
 This is a Google Material Icons Library for Sketch.
 I hope you can fasten up your design process with this as much as I do ✌️.
 If you've got any questions, just send me a message on Twitter [🐥 @brandtnewww](http://twitter.com/brandtnewww).
